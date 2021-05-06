@@ -5,10 +5,8 @@ This was originally written by T3rry7f. This repo is slightly modified version o
 ## Usage
 
 ```
-usage: wvclient.py [-h] [-site SITE] [-path INIT_PATH] [-pssh PSSH]
+usage: wvclient.py [-h] [-path INIT_PATH] [-pssh PSSH]
                              [-url LICENSE_URL]
-
-origin author is T3rry7f, this is a python3 version.
 
 optional arguments:
   -h, --help            show this help message and exit
